@@ -586,3 +586,106 @@
 16.1.2023, 15:17:08 - DEBUG - Getting toys | {} 
 16.1.2023, 15:19:42 - INFO - Hi | 90 | Bobo 
 16.1.2023, 15:19:42 - INFO - Server is running on port: 3030 
+16.1.2023, 19:32:32 - INFO - Hi | 90 | Bobo 
+16.1.2023, 19:32:32 - INFO - Server is running on port: 3030 
+16.1.2023, 19:33:16 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 19:33:16 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 19:36:44 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 19:36:44 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 19:42:03 - INFO - Req was made 
+16.1.2023, 19:42:03 - DEBUG - Getting toys | {} 
+16.1.2023, 19:42:07 - INFO - Req was made 
+16.1.2023, 19:42:07 - DEBUG - Getting toys | {} 
+16.1.2023, 19:49:04 - INFO - Req was made 
+16.1.2023, 19:49:04 - DEBUG - Getting toys | {} 
+16.1.2023, 19:49:06 - INFO - Req was made 
+16.1.2023, 19:49:06 - DEBUG - Getting toys | {} 
+16.1.2023, 20:00:26 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:00:27 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 20:03:10 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:03:10 - INFO - Server is running on port: 3030 
+16.1.2023, 20:03:14 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:03:14 - INFO - Server is running on port: 3030 
+16.1.2023, 20:03:16 - INFO - Server is running on port: 3030 
+16.1.2023, 20:03:16 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:03:21 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:03:21 - INFO - Server is running on port: 3030 
+16.1.2023, 20:04:11 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:04:11 - INFO - Server is running on port: 3030 
+16.1.2023, 20:07:05 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:07:05 - INFO - Server is running on port: 3030 
+16.1.2023, 20:07:15 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:07:15 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 20:07:18 - INFO - Req was made 
+16.1.2023, 20:07:18 - DEBUG - Getting toys | {} 
+16.1.2023, 20:07:42 - INFO - Req was made 
+16.1.2023, 20:07:42 - DEBUG - Getting toys | {} 
+16.1.2023, 20:20:11 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:20:11 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 20:20:18 - ERROR - Failed to update user | TypeError: userService.addUserMsg is not a function 
+16.1.2023, 20:21:04 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:21:04 - INFO - Server is running on port: 3030 
+16.1.2023, 20:21:08 - ERROR - cannot add user msg 63c472d334450ff7b46a6f8a | ReferenceError: utilService is not defined 
+16.1.2023, 20:21:08 - ERROR - Failed to update user | ReferenceError: utilService is not defined 
+16.1.2023, 20:22:55 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:22:55 - INFO - Server is running on port: 3030 
+16.1.2023, 20:23:34 - INFO - Req was made 
+16.1.2023, 20:23:34 - DEBUG - Getting toys | {} 
+16.1.2023, 20:23:35 - INFO - Req was made 
+16.1.2023, 20:23:35 - DEBUG - Getting toys | {} 
+16.1.2023, 20:23:45 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:23:46 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 20:25:19 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:25:19 - INFO - Server is running on port: 3030 
+16.1.2023, 20:25:32 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:25:32 - INFO - Server is running on port: 3030 
+16.1.2023, 20:26:26 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:26:26 - INFO - Server is running on port: 3030 
+16.1.2023, 20:27:42 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:27:42 - INFO - Server is running on port: 3030 
+16.1.2023, 20:28:37 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:28:37 - INFO - Server is running on port: 3030 
+16.1.2023, 20:28:38 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:28:38 - INFO - Server is running on port: 3030 
+16.1.2023, 20:28:49 - DEBUG - id msg added 63c472d334450ff7b46a6f8a 
+16.1.2023, 20:29:16 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:29:16 - INFO - Server is running on port: 3030 
+16.1.2023, 20:29:24 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:29:24 - INFO - Server is running on port: 3030 
+16.1.2023, 20:29:26 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:29:26 - INFO - Server is running on port: 3030 
+16.1.2023, 20:29:35 - INFO - Hi | 90 | Bobo 
+16.1.2023, 20:29:35 - INFO - Server is running on port: 3030 
+16.1.2023, 20:29:43 - DEBUG - id msg added 63c472d334450ff7b46a6f8a 
+16.1.2023, 20:30:21 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:30:21 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true,"msg":[{"name":"admin","text":"testtttt","rank":"3","id":"TcJpd"}]} 
+16.1.2023, 20:32:56 - INFO - Req was made 
+16.1.2023, 20:32:56 - DEBUG - Getting toys | {} 
+16.1.2023, 20:39:23 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:39:23 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true,"msg":[{"name":"admin","text":"testtttt","rank":"3","id":"TcJpd"}]} 
+16.1.2023, 20:39:30 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 20:39:30 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 20:39:35 - DEBUG - id msg added 63c472d334450ff7b46a6f8a 
+16.1.2023, 20:39:56 - DEBUG - id msg added 63c472d334450ff7b46a6f8a 
+16.1.2023, 20:49:22 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 20:49:22 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 20:49:26 - DEBUG - id msg added 63c475ebaba8debbf6b5e990 
+16.1.2023, 20:49:34 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:49:34 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true,"msg":[{"name":"admin","text":"testtttt","rank":"3","id":"TcJpd"},{"name":"tom","text":"Best admin","rank":"5","id":"r3yoN"},{"name":"tom","text":"test","rank":"1","id":"wiAwu"}]} 
+16.1.2023, 20:49:40 - DEBUG - id msg added 63c475ebaba8debbf6b5e990 
+16.1.2023, 20:50:32 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 20:50:32 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false,"msg":[{"name":"tom","text":"test","rank":"3","id":"8WUJ6"},{"name":"admin","text":"Good user","rank":"4","id":"s8fBg"}]} 
+16.1.2023, 20:55:51 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 20:55:51 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false,"msg":[{"name":"tom","text":"test","rank":"3","id":"8WUJ6"},{"name":"admin","text":"Good user","rank":"4","id":"s8fBg"}]} 
+16.1.2023, 20:56:36 - INFO - Req was made 
+16.1.2023, 20:56:36 - DEBUG - Getting toys | {} 
+16.1.2023, 20:56:55 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 20:56:56 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true,"msg":[{"name":"admin","text":"testtttt","rank":"3","id":"TcJpd"},{"name":"tom","text":"Best admin","rank":"5","id":"r3yoN"},{"name":"tom","text":"test","rank":"1","id":"wiAwu"}]} 
+16.1.2023, 21:28:49 - INFO - Hi | 90 | Bobo 
+16.1.2023, 21:28:49 - INFO - Server is running on port: 3030 
+16.1.2023, 21:30:07 - INFO - Hi | 90 | Bobo 
+16.1.2023, 21:30:07 - INFO - Server is running on port: 3030 
+16.1.2023, 21:31:04 - INFO - Hi | 90 | Bobo 
+16.1.2023, 21:31:04 - INFO - Server is running on port: 3030 
+16.1.2023, 21:31:30 - INFO - Server is running on port: 3030 
+16.1.2023, 21:46:14 - INFO - New connected socket [id: Y1epbIXuwsxm8R1KAAAB] 

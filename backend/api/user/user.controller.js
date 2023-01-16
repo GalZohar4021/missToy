@@ -58,10 +58,26 @@ async function updateUser(req, res) {
     }
 }
 
+async function addUserMsg(req, res) {
+    const { loggedinUser } = req
+    try {
+        const userId = req.params.id
+        const msg = req.body
+        console.log(userId, msg)
+        const savedMsg = await userService.addUserMsg(userId, msg)
+        res.json(savedMsg)
+    } catch (err) {
+        logger.error('Failed to update user', err)
+        res.status(500).send({ err: 'Failed to update user' })
+
+    }
+}
+
 module.exports = {
     getUser,
     getUsers,
     deleteUser,
     updateUser,
+    addUserMsg,
     addUser
 }

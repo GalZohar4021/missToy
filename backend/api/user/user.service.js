@@ -3,11 +3,13 @@ const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 const bcrypt = require('bcrypt')
 const ObjectId = require('mongodb').ObjectId
+const utilService = require('../services/util.service')
 
 module.exports = {
     query,
     getById,
     getByUsername,
+    addUserMsg,
     remove,
     update,
     add
@@ -17,7 +19,7 @@ async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
         const collection = await dbService.getCollection('user')
-        var users = await collection.find(criteria).sort({nickname: -1}).toArray()
+        var users = await collection.find(criteria).sort({ nickname: -1 }).toArray()
         users = users.map(user => {
             delete user.password
             user.createdAt = ObjectId(user._id).getTimestamp()
@@ -72,7 +74,8 @@ async function update(user) {
             password: await bcrypt.hash(user.password, 10),
             fullname: user.fullname,
             score: user.score,
-            isAdmin: user.isAdmin
+            isAdmin: user.isAdmin,
+            msg: user.msg
         }
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ _id: ObjectId(user._id) }, { $set: userToSave })
@@ -95,7 +98,8 @@ async function add(user) {
             password: await bcrypt.hash(user.password, 10),
             fullname: user.fullname,
             score: user.score || 0,
-            isAdmin: user.isAdmin
+            isAdmin: user.isAdmin,
+            msg: []
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)
@@ -123,6 +127,19 @@ function _buildCriteria(filterBy) {
         criteria.balance = { $gte: filterBy.minBalance }
     }
     return criteria
+}
+
+async function addUserMsg(userId, msg) {
+    try {
+        msg.id = utilService.makeId()
+        const collection = await dbService.getCollection('user')
+        logger.debug(`id msg added ${userId}`)
+        await collection.updateOne({ _id: ObjectId(userId) }, { $push: { msg: msg } })
+        return msg
+    } catch (err) {
+        logger.error(`cannot add user msg ${userId}`, err)
+        throw err
+    }
 }
 
 
