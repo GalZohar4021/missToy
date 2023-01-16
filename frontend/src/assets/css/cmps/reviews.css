@@ -1,0 +1,16 @@
+section.reviews {
+    margin-block: 2rem;
+    padding: 1rem;
+    max-width: 100vw;
+}
+
+h1.review-header{
+    font-size: 2rem;
+    text-align: center;
+    margin-block-start: 4.5rem;
+}
+
+h2.no-reviews{
+    font-size: 1.2rem;
+    text-align: center;
+}

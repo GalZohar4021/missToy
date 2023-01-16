@@ -1,0 +1,29 @@
+
+/* SETUP  */
+@import './setup/vars.css';
+@import './setup/fonts.css';
+
+/* BASE  */
+@import './base/base.css';
+
+/*  CMPS  */
+@import './cmps/app-header.css';
+@import './cmps/toys-preview.css';
+@import './cmps/toys-list.css';
+@import './cmps/toys-filter.css';
+@import './cmps/labels-editor.css';
+@import './cmps/dashboard.css';
+@import './cmps/shops.css';
+@import './cmps/user-login.css';
+@import './cmps/input-range.css';
+@import './cmps/reviews.css';
+@import './cmps/review.css';
+@import './cmps/review-edit.css';
+/* @import ''; */
+
+/*  Pages  */
+@import './pages/home.css';
+@import './pages/toy-index.css';
+@import './pages/toy-edit.css';
+@import './pages/toy-details.css';
+@import './pages/about.css';

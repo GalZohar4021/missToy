@@ -1,0 +1,98 @@
+section.toy-tools {
+    width: 30vw;
+    margin: 0 auto;
+    margin-block: 1rem;
+    text-align: center;
+    margin-block-end: 5rem;
+}
+
+
+section.toy-tools>a>span {
+    font-size: 3rem;
+    color: var(--clr-toy-preview-text);
+    margin: 2rem;
+}
+
+
+a.filters-button>span:hover {
+    cursor: pointer;
+}
+
+
+form.form-filter {
+    grid-template-columns: 0.3fr 1fr 0.4fr 1fr;
+    gap: 2rem;
+}
+
+
+div.form-box {
+    box-shadow: 0.2rem 0.25rem 0.7rem #263f85;
+    background-color: var(--clr-toy-preview-background);
+    display: none;
+    padding: 1.5rem;
+    text-align: center;
+    
+}
+
+
+div.form-box.show {
+    display: block;
+}
+
+form.form-filter>label {
+    font-size: 1.2rem;
+    width: fit-content;
+    text-align: left;
+}
+
+form.form-filter>input {
+    font-size: 1.0rem;
+    padding-block: 0.4rem;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid rgb(215, 211, 211);
+    height: fit-content;
+}
+
+
+div.filter-actions {
+    display: inline-block;
+    margin-block-start: 2rem;
+}
+
+div.filter-actions>button {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: unset;
+
+    padding-block: 0.4rem;
+    padding-inline: 1.2rem;
+    margin-inline-end: 1.2rem;
+
+    background-color: #4f81c7;
+    border: 0.8px hidden rgb(206, 205, 205);
+    border-radius: 5px;
+}
+
+
+div.filter-actions>button:hover {
+    cursor: pointer;
+    background-color: #393e46;
+    color: white;
+}
+
+@media (max-width: 1020px) {
+
+    section.toy-tools {
+        width: 95vw;
+    }
+    
+    form.form-filter>label {
+        font-size: 1.3rem;
+    }
+
+    form.form-filter {
+        grid-template-columns: 0.3fr 1fr 1fr 0.7fr;
+        gap: 1rem;
+    }
+}

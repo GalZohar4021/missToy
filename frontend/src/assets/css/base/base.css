@@ -1,0 +1,87 @@
+html , body, #app-root , section.app {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+html {
+    font-size: calc(5px + 0.390625vw);
+    font-family: 'openSans';
+}
+
+body{
+    min-height: 100%;
+    background-color: #ebebf5;
+}
+
+section.app{
+    justify-content: space-between;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button.button , a.button {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 550;
+
+    font-weight: unset;
+    
+    padding-block: 0.4rem;
+    padding-inline: 1.2rem;
+    
+    background-color: #4f81c7;
+    border: 0.8px hidden rgb(206, 205, 205);
+    border-radius: 5px;
+    
+    height: fit-content;
+    width: fit-content;
+    
+    justify-self: center;
+    align-self: center;
+
+    font-family: 'openSans';
+}
+
+button.button:hover, a.button:hover {
+    background-color: #393e46;
+    color: white;
+}
+
+
+button.remove-x , button.icon-button {
+    border: hidden;
+    border-radius: 50%;
+    color: var(--textbox-border-color);
+    font-size: 2rem;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+input:focus, textarea:focus {
+    border-color: var(--textbox-border-color);
+}
+
+.grid {
+    display: grid;
+}
+
+input[type='number'] {
+    text-align: center;
+}

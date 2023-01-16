@@ -1,0 +1,41 @@
+ul.toy-list {
+    padding: 0px;
+    list-style-type: none;
+    
+    grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
+    grid-auto-flow: row;
+    gap: 1.5rem;
+    margin: 0 auto;
+
+    justify-items: center;
+}
+
+li.toy-preview {
+    display: block;
+    background-color: #F7F7F7;
+    box-shadow: 0.2rem 0.25rem 0.7rem #263f85;
+    width: fit-content;
+}
+
+button.add-to-cart {
+    display: block;
+    font-size: 2.5rem;
+    margin: 0 auto;
+    margin-block: 1rem 0.5rem;
+    width: 80%;
+    border-radius: 5px;
+}
+
+
+div.admin-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+div.admin-actions>button {
+    margin-block-start: 0.6rem;
+    padding-inline-end: 1rem;
+
+    font-size: 1.5rem;
+}

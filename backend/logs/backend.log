@@ -1,0 +1,588 @@
+15.1.2023, 22:11:49 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:11:49 - INFO - Server is running on port: 3030 
+15.1.2023, 22:12:14 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:12:14 - INFO - Server is running on port: 3030 
+15.1.2023, 22:12:23 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:12:23 - INFO - Server is running on port: 3030 
+15.1.2023, 22:19:48 - INFO - Req was made 
+15.1.2023, 22:19:48 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:21:21 - INFO - Req was made 
+15.1.2023, 22:21:21 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:25:10 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:25:10 - INFO - Server is running on port: 3030 
+15.1.2023, 22:26:26 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:26:26 - INFO - Req was made 
+15.1.2023, 22:28:41 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:28:41 - INFO - Server is running on port: 3030 
+15.1.2023, 22:29:02 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:29:02 - INFO - Server is running on port: 3030 
+15.1.2023, 22:31:01 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:31:01 - INFO - Server is running on port: 3030 
+15.1.2023, 22:31:15 - INFO - Req was made 
+15.1.2023, 22:31:15 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:31:23 - INFO - Req was made 
+15.1.2023, 22:31:23 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:48:51 - INFO - Req was made 
+15.1.2023, 22:48:51 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:49:02 - INFO - Req was made 
+15.1.2023, 22:49:02 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:49:39 - INFO - Req was made 
+15.1.2023, 22:49:39 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:52:15 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:52:15 - INFO - Server is running on port: 3030 
+15.1.2023, 22:52:22 - INFO - Req was made 
+15.1.2023, 22:52:22 - DEBUG - Getting toys | {"txt":""} 
+15.1.2023, 22:52:22 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:52:22 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:54:58 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:54:58 - INFO - Server is running on port: 3030 
+15.1.2023, 22:56:05 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:56:05 - INFO - Server is running on port: 3030 
+15.1.2023, 22:56:10 - INFO - Req was made 
+15.1.2023, 22:56:10 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:56:10 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:56:10 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:56:14 - INFO - Req was made 
+15.1.2023, 22:56:14 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:56:14 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:56:14 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:56:18 - INFO - Req was made 
+15.1.2023, 22:56:18 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:56:18 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:56:18 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:15 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:57:15 - INFO - Server is running on port: 3030 
+15.1.2023, 22:57:33 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:57:33 - INFO - Req was made 
+15.1.2023, 22:57:33 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:33 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:38 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:57:38 - INFO - Server is running on port: 3030 
+15.1.2023, 22:57:39 - INFO - Req was made 
+15.1.2023, 22:57:39 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:57:39 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:39 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:40 - INFO - Req was made 
+15.1.2023, 22:57:40 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:57:40 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:40 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:57:45 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:57:45 - INFO - Server is running on port: 3030 
+15.1.2023, 22:59:09 - INFO - Hi | 90 | Bobo 
+15.1.2023, 22:59:09 - INFO - Server is running on port: 3030 
+15.1.2023, 22:59:16 - INFO - Req was made 
+15.1.2023, 22:59:16 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 22:59:16 - ERROR - cannot find toys | MongoServerError: $regex has to be a string 
+15.1.2023, 22:59:16 - ERROR - Failed to get toys | MongoServerError: $regex has to be a string 
+15.1.2023, 23:01:37 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:01:37 - INFO - Server is running on port: 3030 
+15.1.2023, 23:01:42 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:01:42 - INFO - Server is running on port: 3030 
+15.1.2023, 23:01:55 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:01:55 - INFO - Server is running on port: 3030 
+15.1.2023, 23:02:02 - INFO - Req was made 
+15.1.2023, 23:02:02 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 23:02:06 - INFO - Req was made 
+15.1.2023, 23:02:06 - DEBUG - Getting toys | {"name":"DICE Pop","maxPrice":"Infinity"} 
+15.1.2023, 23:02:09 - INFO - Req was made 
+15.1.2023, 23:02:09 - DEBUG - Getting toys | {"name":"DICE","maxPrice":"Infinity"} 
+15.1.2023, 23:02:11 - INFO - Req was made 
+15.1.2023, 23:02:11 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 23:08:02 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:08:02 - INFO - Server is running on port: 3030 
+15.1.2023, 23:08:06 - INFO - Req was made 
+15.1.2023, 23:08:06 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 23:08:48 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:08:48 - INFO - Server is running on port: 3030 
+15.1.2023, 23:08:50 - INFO - Req was made 
+15.1.2023, 23:08:50 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 23:08:51 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 23:08:51 - INFO - Req was made 
+15.1.2023, 23:08:53 - INFO - Req was made 
+15.1.2023, 23:08:53 - DEBUG - Getting toys | {"maxPrice":"Infinity"} 
+15.1.2023, 23:09:00 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:09:00 - INFO - Server is running on port: 3030 
+15.1.2023, 23:09:41 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:09:41 - INFO - Server is running on port: 3030 
+15.1.2023, 23:10:06 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:10:06 - INFO - Server is running on port: 3030 
+15.1.2023, 23:10:11 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:10:11 - INFO - Server is running on port: 3030 
+15.1.2023, 23:10:56 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:10:56 - INFO - Server is running on port: 3030 
+15.1.2023, 23:11:34 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:11:34 - INFO - Server is running on port: 3030 
+15.1.2023, 23:11:35 - INFO - Req was made 
+15.1.2023, 23:11:35 - DEBUG - Getting toys | {} 
+15.1.2023, 23:11:41 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:11:41 - INFO - Server is running on port: 3030 
+15.1.2023, 23:11:46 - INFO - Req was made 
+15.1.2023, 23:11:46 - DEBUG - Getting toys | {} 
+15.1.2023, 23:11:50 - INFO - Req was made 
+15.1.2023, 23:11:50 - DEBUG - Getting toys | {"maxPrice":"70"} 
+15.1.2023, 23:11:52 - INFO - Req was made 
+15.1.2023, 23:11:52 - DEBUG - Getting toys | {"maxPrice":"71"} 
+15.1.2023, 23:11:55 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:11:55 - INFO - Server is running on port: 3030 
+15.1.2023, 23:11:57 - INFO - Req was made 
+15.1.2023, 23:11:57 - DEBUG - Getting toys | {"maxPrice":"70"} 
+15.1.2023, 23:12:14 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:12:14 - INFO - Server is running on port: 3030 
+15.1.2023, 23:12:19 - INFO - Req was made 
+15.1.2023, 23:12:19 - DEBUG - Getting toys | {} 
+15.1.2023, 23:12:24 - INFO - Req was made 
+15.1.2023, 23:12:24 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:17:27 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:17:27 - INFO - Server is running on port: 3030 
+15.1.2023, 23:17:31 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:17:31 - INFO - Server is running on port: 3030 
+15.1.2023, 23:17:33 - INFO - Req was made 
+15.1.2023, 23:17:33 - DEBUG - Getting toys | {} 
+15.1.2023, 23:17:36 - INFO - Req was made 
+15.1.2023, 23:17:36 - DEBUG - Getting toys | {} 
+15.1.2023, 23:17:39 - INFO - Req was made 
+15.1.2023, 23:17:39 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:17:41 - INFO - Req was made 
+15.1.2023, 23:17:41 - DEBUG - Getting toys | {"maxPrice":"50"} 
+15.1.2023, 23:18:25 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:18:25 - INFO - Server is running on port: 3030 
+15.1.2023, 23:19:49 - INFO - Req was made 
+15.1.2023, 23:19:49 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:20:13 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:20:13 - INFO - Server is running on port: 3030 
+15.1.2023, 23:20:22 - INFO - Req was made 
+15.1.2023, 23:20:22 - DEBUG - Getting toys | {} 
+15.1.2023, 23:20:25 - INFO - Req was made 
+15.1.2023, 23:20:25 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:20:48 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:20:48 - INFO - Server is running on port: 3030 
+15.1.2023, 23:20:51 - INFO - Req was made 
+15.1.2023, 23:20:51 - DEBUG - Getting toys | {} 
+15.1.2023, 23:20:55 - INFO - Req was made 
+15.1.2023, 23:20:55 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:21:27 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:21:27 - INFO - Server is running on port: 3030 
+15.1.2023, 23:21:31 - INFO - Req was made 
+15.1.2023, 23:21:31 - DEBUG - Getting toys | {} 
+15.1.2023, 23:21:34 - INFO - Req was made 
+15.1.2023, 23:21:34 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:21:42 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:21:42 - INFO - Server is running on port: 3030 
+15.1.2023, 23:21:49 - INFO - Req was made 
+15.1.2023, 23:21:49 - DEBUG - Getting toys | {} 
+15.1.2023, 23:21:53 - INFO - Req was made 
+15.1.2023, 23:21:53 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:22:02 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:22:02 - INFO - Server is running on port: 3030 
+15.1.2023, 23:22:04 - INFO - Req was made 
+15.1.2023, 23:22:04 - DEBUG - Getting toys | {} 
+15.1.2023, 23:22:07 - INFO - Req was made 
+15.1.2023, 23:22:07 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:22:11 - INFO - Req was made 
+15.1.2023, 23:22:11 - DEBUG - Getting toys | {"maxPrice":"80"} 
+15.1.2023, 23:22:18 - INFO - Req was made 
+15.1.2023, 23:22:18 - DEBUG - Getting toys | {} 
+15.1.2023, 23:22:26 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:22:26 - INFO - Server is running on port: 3030 
+15.1.2023, 23:22:28 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:22:28 - INFO - Server is running on port: 3030 
+15.1.2023, 23:22:33 - INFO - Req was made 
+15.1.2023, 23:22:33 - DEBUG - Getting toys | {} 
+15.1.2023, 23:22:39 - INFO - Req was made 
+15.1.2023, 23:22:39 - DEBUG - Getting toys | {"maxPrice":"73"} 
+15.1.2023, 23:22:41 - INFO - Req was made 
+15.1.2023, 23:22:41 - DEBUG - Getting toys | {"maxPrice":"70"} 
+15.1.2023, 23:22:43 - INFO - Req was made 
+15.1.2023, 23:22:43 - DEBUG - Getting toys | {"maxPrice":"64"} 
+15.1.2023, 23:22:44 - INFO - Req was made 
+15.1.2023, 23:22:44 - DEBUG - Getting toys | {"maxPrice":"74"} 
+15.1.2023, 23:22:46 - INFO - Req was made 
+15.1.2023, 23:22:46 - DEBUG - Getting toys | {"maxPrice":"80"} 
+15.1.2023, 23:22:49 - INFO - Req was made 
+15.1.2023, 23:22:49 - DEBUG - Getting toys | {} 
+15.1.2023, 23:23:17 - INFO - Req was made 
+15.1.2023, 23:23:17 - DEBUG - Getting toys | {} 
+15.1.2023, 23:23:36 - INFO - Req was made 
+15.1.2023, 23:23:36 - DEBUG - Getting toys | {} 
+15.1.2023, 23:24:14 - INFO - Req was made 
+15.1.2023, 23:24:14 - DEBUG - Getting toys | {} 
+15.1.2023, 23:25:14 - INFO - Req was made 
+15.1.2023, 23:25:14 - DEBUG - Getting toys | {} 
+15.1.2023, 23:25:20 - INFO - Req was made 
+15.1.2023, 23:25:20 - DEBUG - Getting toys | {} 
+15.1.2023, 23:25:23 - INFO - Req was made 
+15.1.2023, 23:25:23 - DEBUG - Getting toys | {} 
+15.1.2023, 23:25:28 - INFO - Req was made 
+15.1.2023, 23:25:28 - DEBUG - Getting toys | {} 
+15.1.2023, 23:25:34 - INFO - Req was made 
+15.1.2023, 23:25:34 - DEBUG - Getting toys | {} 
+15.1.2023, 23:25:37 - INFO - Req was made 
+15.1.2023, 23:25:37 - DEBUG - Getting toys | {} 
+15.1.2023, 23:32:21 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:32:21 - INFO - Server is running on port: 3030 
+15.1.2023, 23:32:21 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:32:21 - INFO - Server is running on port: 3030 
+15.1.2023, 23:32:53 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:32:53 - INFO - Server is running on port: 3030 
+15.1.2023, 23:35:50 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:35:50 - INFO - Server is running on port: 3030 
+15.1.2023, 23:38:07 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:38:07 - INFO - Server is running on port: 3030 
+15.1.2023, 23:38:54 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:38:54 - INFO - Server is running on port: 3030 
+15.1.2023, 23:40:16 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:40:16 - INFO - Server is running on port: 3030 
+15.1.2023, 23:41:33 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:41:33 - INFO - Server is running on port: 3030 
+15.1.2023, 23:42:43 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:42:44 - INFO - Server is running on port: 3030 
+15.1.2023, 23:43:08 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:43:08 - INFO - Server is running on port: 3030 
+15.1.2023, 23:43:14 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:43:14 - INFO - Server is running on port: 3030 
+15.1.2023, 23:44:51 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:44:51 - INFO - Server is running on port: 3030 
+15.1.2023, 23:46:06 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:46:06 - INFO - Server is running on port: 3030 
+15.1.2023, 23:47:13 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:47:13 - INFO - Server is running on port: 3030 
+15.1.2023, 23:48:58 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:48:58 - INFO - Server is running on port: 3030 
+15.1.2023, 23:50:01 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:50:01 - INFO - Server is running on port: 3030 
+15.1.2023, 23:50:07 - ERROR - cannot update user undefined | ReferenceError: toy is not defined 
+15.1.2023, 23:50:07 - ERROR - Failed to update user | ReferenceError: toy is not defined 
+15.1.2023, 23:51:12 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:51:12 - INFO - Server is running on port: 3030 
+15.1.2023, 23:52:50 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:52:50 - INFO - Server is running on port: 3030 
+15.1.2023, 23:54:53 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:54:53 - INFO - Server is running on port: 3030 
+15.1.2023, 23:55:00 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:55:00 - INFO - Server is running on port: 3030 
+15.1.2023, 23:55:55 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:55:55 - INFO - Server is running on port: 3030 
+15.1.2023, 23:56:15 - INFO - Req was made 
+15.1.2023, 23:56:15 - DEBUG - Getting toys | {} 
+15.1.2023, 23:56:20 - INFO - Req was made 
+15.1.2023, 23:56:20 - DEBUG - Getting toys | {} 
+15.1.2023, 23:56:22 - INFO - Req was made 
+15.1.2023, 23:56:22 - DEBUG - Getting toys | {} 
+15.1.2023, 23:57:29 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:57:29 - INFO - Server is running on port: 3030 
+15.1.2023, 23:57:54 - INFO - Req was made 
+15.1.2023, 23:57:54 - DEBUG - Getting toys | {} 
+15.1.2023, 23:58:34 - INFO - Server is running on port: 3030 
+15.1.2023, 23:58:34 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:58:41 - INFO - Req was made 
+15.1.2023, 23:58:41 - DEBUG - Getting toys | {} 
+15.1.2023, 23:58:41 - ERROR - cannot find toys | TypeError: ObjectId(...).getTime is not a function 
+15.1.2023, 23:58:41 - ERROR - Failed to get toys | TypeError: ObjectId(...).getTime is not a function 
+15.1.2023, 23:58:45 - INFO - Hi | 90 | Bobo 
+15.1.2023, 23:58:45 - INFO - Server is running on port: 3030 
+15.1.2023, 23:58:50 - INFO - Req was made 
+15.1.2023, 23:58:50 - DEBUG - Getting toys | {} 
+16.1.2023, 0:05:51 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:05:51 - INFO - Server is running on port: 3030 
+16.1.2023, 0:05:54 - INFO - Req was made 
+16.1.2023, 0:05:54 - DEBUG - Getting toys | {} 
+16.1.2023, 0:06:12 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:06:12 - INFO - Server is running on port: 3030 
+16.1.2023, 0:06:13 - INFO - Req was made 
+16.1.2023, 0:06:13 - DEBUG - Getting toys | {} 
+16.1.2023, 0:06:43 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:06:43 - INFO - Server is running on port: 3030 
+16.1.2023, 0:06:45 - INFO - Req was made 
+16.1.2023, 0:06:45 - DEBUG - Getting toys | {} 
+16.1.2023, 0:07:26 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:07:26 - INFO - Server is running on port: 3030 
+16.1.2023, 0:07:28 - INFO - Req was made 
+16.1.2023, 0:07:28 - DEBUG - Getting toys | {} 
+16.1.2023, 0:07:43 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:07:43 - INFO - Server is running on port: 3030 
+16.1.2023, 0:07:45 - INFO - Req was made 
+16.1.2023, 0:07:45 - DEBUG - Getting toys | {} 
+16.1.2023, 0:08:15 - INFO - Req was made 
+16.1.2023, 0:08:15 - DEBUG - Getting toys | {} 
+16.1.2023, 0:08:26 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:08:26 - INFO - Server is running on port: 3030 
+16.1.2023, 0:08:29 - INFO - Req was made 
+16.1.2023, 0:08:29 - DEBUG - Getting toys | {} 
+16.1.2023, 0:08:32 - INFO - Req was made 
+16.1.2023, 0:08:32 - DEBUG - Getting toys | {} 
+16.1.2023, 0:08:50 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:08:50 - INFO - Server is running on port: 3030 
+16.1.2023, 0:08:58 - INFO - Req was made 
+16.1.2023, 0:08:58 - DEBUG - Getting toys | {} 
+16.1.2023, 0:09:16 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:09:16 - INFO - Server is running on port: 3030 
+16.1.2023, 0:09:31 - INFO - Req was made 
+16.1.2023, 0:09:31 - DEBUG - Getting toys | {} 
+16.1.2023, 0:10:18 - INFO - Req was made 
+16.1.2023, 0:10:18 - DEBUG - Getting toys | {} 
+16.1.2023, 0:10:35 - INFO - Req was made 
+16.1.2023, 0:10:35 - DEBUG - Getting toys | {} 
+16.1.2023, 0:10:53 - INFO - Req was made 
+16.1.2023, 0:10:53 - DEBUG - Getting toys | {} 
+16.1.2023, 0:11:24 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:11:24 - INFO - Server is running on port: 3030 
+16.1.2023, 0:11:30 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:11:30 - INFO - Server is running on port: 3030 
+16.1.2023, 0:11:31 - DEBUG - Getting toys | {} 
+16.1.2023, 0:11:31 - INFO - Req was made 
+16.1.2023, 0:13:00 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:13:00 - INFO - Server is running on port: 3030 
+16.1.2023, 0:13:20 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:13:20 - INFO - Server is running on port: 3030 
+16.1.2023, 0:13:45 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:13:45 - INFO - Server is running on port: 3030 
+16.1.2023, 0:13:56 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:13:56 - INFO - Server is running on port: 3030 
+16.1.2023, 0:14:10 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:14:10 - INFO - Server is running on port: 3030 
+16.1.2023, 0:14:13 - INFO - Req was made 
+16.1.2023, 0:14:13 - DEBUG - Getting toys | {} 
+16.1.2023, 0:14:17 - INFO - Req was made 
+16.1.2023, 0:14:17 - DEBUG - Getting toys | {} 
+16.1.2023, 0:14:22 - DEBUG - Getting toys | {} 
+16.1.2023, 0:14:22 - INFO - Req was made 
+16.1.2023, 0:14:55 - INFO - Req was made 
+16.1.2023, 0:14:55 - DEBUG - Getting toys | {} 
+16.1.2023, 0:14:56 - INFO - Req was made 
+16.1.2023, 0:14:56 - DEBUG - Getting toys | {} 
+16.1.2023, 0:41:54 - INFO - Req was made 
+16.1.2023, 0:41:54 - DEBUG - Getting toys | {} 
+16.1.2023, 0:45:12 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:45:12 - ERROR - Failed to Login Invalid username or password 
+16.1.2023, 0:45:28 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:45:28 - ERROR - Failed to Login Invalid username or password 
+16.1.2023, 0:46:22 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:46:22 - INFO - Server is running on port: 3030 
+16.1.2023, 0:46:56 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:46:56 - INFO - Server is running on port: 3030 
+16.1.2023, 0:47:09 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:47:09 - ERROR - Failed to Login Invalid username or password 
+16.1.2023, 0:47:15 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 0:47:15 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 0:47:30 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:47:30 - INFO - Server is running on port: 3030 
+16.1.2023, 0:47:32 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 0:47:32 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 0:47:50 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:47:50 - INFO - Server is running on port: 3030 
+16.1.2023, 0:47:53 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 0:47:54 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 0:49:34 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:49:34 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 0:49:39 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:49:39 - ERROR - Failed to Login Invalid username or password 
+16.1.2023, 0:49:46 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:49:46 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 0:49:59 - INFO - Hi | 90 | Bobo 
+16.1.2023, 0:49:59 - INFO - Server is running on port: 3030 
+16.1.2023, 0:50:11 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:50:11 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 0:54:39 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 0:54:40 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 0:54:44 - INFO - Req was made 
+16.1.2023, 0:54:44 - DEBUG - Getting toys | {} 
+16.1.2023, 0:54:45 - INFO - Req was made 
+16.1.2023, 0:54:45 - DEBUG - Getting toys | {} 
+16.1.2023, 0:57:29 - INFO - Req was made 
+16.1.2023, 0:57:29 - DEBUG - Getting toys | {} 
+16.1.2023, 1:00:56 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:00:57 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 1:01:03 - DEBUG - Getting toys | {} 
+16.1.2023, 1:01:03 - INFO - Req was made 
+16.1.2023, 1:01:04 - INFO - Req was made 
+16.1.2023, 1:01:04 - DEBUG - Getting toys | {} 
+16.1.2023, 1:01:04 - INFO - Req was made 
+16.1.2023, 1:01:04 - DEBUG - Getting toys | {} 
+16.1.2023, 1:01:05 - INFO - Req was made 
+16.1.2023, 1:01:05 - DEBUG - Getting toys | {} 
+16.1.2023, 1:01:06 - INFO - Req was made 
+16.1.2023, 1:01:06 - DEBUG - Getting toys | {} 
+16.1.2023, 1:01:06 - DEBUG - Getting toys | {} 
+16.1.2023, 1:01:06 - INFO - Req was made 
+16.1.2023, 1:01:07 - INFO - Req was made 
+16.1.2023, 1:01:07 - DEBUG - Getting toys | {} 
+16.1.2023, 1:05:16 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:05:16 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 1:05:20 - INFO - Req was made 
+16.1.2023, 1:05:20 - DEBUG - Getting toys | {} 
+16.1.2023, 1:05:25 - INFO - Req was made 
+16.1.2023, 1:05:25 - DEBUG - Getting toys | {} 
+16.1.2023, 1:09:34 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:09:34 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 1:12:08 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 1:12:08 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 1:12:11 - INFO - Req was made 
+16.1.2023, 1:12:11 - DEBUG - Getting toys | {} 
+16.1.2023, 1:12:16 - INFO - Req was made 
+16.1.2023, 1:12:16 - DEBUG - Getting toys | {} 
+16.1.2023, 1:12:26 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:12:26 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 1:13:46 - INFO - Req was made 
+16.1.2023, 1:13:46 - DEBUG - Getting toys | {} 
+16.1.2023, 1:14:12 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:14:12 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 1:17:42 - INFO - Req was made 
+16.1.2023, 1:17:42 - DEBUG - Getting toys | {} 
+16.1.2023, 1:17:49 - INFO - Req was made 
+16.1.2023, 1:17:49 - DEBUG - Getting toys | {} 
+16.1.2023, 1:18:01 - INFO - Req was made 
+16.1.2023, 1:18:01 - DEBUG - Getting toys | {} 
+16.1.2023, 1:20:02 - INFO - Req was made 
+16.1.2023, 1:20:02 - DEBUG - Getting toys | {} 
+16.1.2023, 1:20:07 - INFO - Req was made 
+16.1.2023, 1:20:07 - DEBUG - Getting toys | {} 
+16.1.2023, 1:20:08 - INFO - Req was made 
+16.1.2023, 1:20:08 - DEBUG - Getting toys | {} 
+16.1.2023, 1:20:15 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:20:15 - ERROR - Failed to Login Invalid username or password 
+16.1.2023, 1:20:22 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 1:20:22 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 1:20:25 - DEBUG - Getting toys | {} 
+16.1.2023, 1:20:25 - INFO - Req was made 
+16.1.2023, 1:20:48 - INFO - Req was made 
+16.1.2023, 1:20:48 - DEBUG - Getting toys | {} 
+16.1.2023, 13:20:22 - INFO - Hi | 90 | Bobo 
+16.1.2023, 13:20:22 - INFO - Server is running on port: 3030 
+16.1.2023, 13:32:39 - INFO - Req was made 
+16.1.2023, 13:32:39 - DEBUG - Getting toys | {} 
+16.1.2023, 13:33:34 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 13:33:34 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 13:38:43 - INFO - Req was made 
+16.1.2023, 13:38:43 - DEBUG - Getting toys | {} 
+16.1.2023, 13:39:04 - INFO - Req was made 
+16.1.2023, 13:39:04 - DEBUG - Getting toys | {} 
+16.1.2023, 13:40:37 - INFO - Req was made 
+16.1.2023, 13:40:37 - DEBUG - Getting toys | {} 
+16.1.2023, 13:40:40 - INFO - Req was made 
+16.1.2023, 13:40:40 - DEBUG - Getting toys | {} 
+16.1.2023, 13:40:42 - INFO - Req was made 
+16.1.2023, 13:40:42 - DEBUG - Getting toys | {} 
+16.1.2023, 13:40:44 - INFO - Req was made 
+16.1.2023, 13:40:44 - DEBUG - Getting toys | {} 
+16.1.2023, 13:42:50 - INFO - Req was made 
+16.1.2023, 13:42:50 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:09 - INFO - Req was made 
+16.1.2023, 13:47:09 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:11 - INFO - Req was made 
+16.1.2023, 13:47:11 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:15 - INFO - Req was made 
+16.1.2023, 13:47:15 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:16 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:16 - INFO - Req was made 
+16.1.2023, 13:47:31 - INFO - Req was made 
+16.1.2023, 13:47:31 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:34 - INFO - Req was made 
+16.1.2023, 13:47:34 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:37 - INFO - Req was made 
+16.1.2023, 13:47:37 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:40 - INFO - Req was made 
+16.1.2023, 13:47:40 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:46 - INFO - Req was made 
+16.1.2023, 13:47:46 - DEBUG - Getting toys | {} 
+16.1.2023, 13:47:48 - INFO - Req was made 
+16.1.2023, 13:47:48 - DEBUG - Getting toys | {} 
+16.1.2023, 13:48:22 - INFO - Req was made 
+16.1.2023, 13:48:22 - DEBUG - Getting toys | {} 
+16.1.2023, 13:48:29 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 13:48:29 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 13:50:48 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 13:50:48 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 13:52:48 - WARN - tom boyattempted to perform admin action 
+16.1.2023, 13:54:13 - INFO - Req was made 
+16.1.2023, 13:54:13 - DEBUG - Getting toys | {} 
+16.1.2023, 13:54:16 - INFO - Req was made 
+16.1.2023, 13:54:16 - DEBUG - Getting toys | {} 
+16.1.2023, 13:54:21 - INFO - Req was made 
+16.1.2023, 13:54:21 - DEBUG - Getting toys | {} 
+16.1.2023, 13:54:31 - WARN - tom boyattempted to perform admin action 
+16.1.2023, 13:54:34 - INFO - Req was made 
+16.1.2023, 13:54:34 - DEBUG - Getting toys | {} 
+16.1.2023, 13:54:39 - DEBUG - Getting toys | {} 
+16.1.2023, 13:54:39 - INFO - Req was made 
+16.1.2023, 13:54:45 - WARN - tom boyattempted to perform admin action 
+16.1.2023, 13:54:47 - INFO - Req was made 
+16.1.2023, 13:54:47 - DEBUG - Getting toys | {} 
+16.1.2023, 13:54:50 - INFO - Req was made 
+16.1.2023, 13:54:50 - DEBUG - Getting toys | {} 
+16.1.2023, 13:56:16 - WARN - tom boyattempted to perform admin action 
+16.1.2023, 13:56:29 - INFO - Req was made 
+16.1.2023, 13:56:29 - DEBUG - Getting toys | {} 
+16.1.2023, 13:56:34 - WARN - tom boyattempted to perform admin action 
+16.1.2023, 13:57:14 - INFO - Req was made 
+16.1.2023, 13:57:14 - DEBUG - Getting toys | {} 
+16.1.2023, 13:57:20 - WARN - tom boyattempted to perform admin action 
+16.1.2023, 13:59:33 - INFO - Hi | 90 | Bobo 
+16.1.2023, 13:59:33 - INFO - Server is running on port: 3030 
+16.1.2023, 14:05:16 - INFO - Hi | 90 | Bobo 
+16.1.2023, 14:05:16 - INFO - Server is running on port: 3030 
+16.1.2023, 14:12:37 - INFO - Hi | 90 | Bobo 
+16.1.2023, 14:12:37 - INFO - Server is running on port: 3030 
+16.1.2023, 14:12:41 - DEBUG - auth.service - login with username: tom 
+16.1.2023, 14:12:41 - INFO - User login:  | {"_id":"63c475ebaba8debbf6b5e990","username":"tom","fullname":"tom boy","score":500,"isAdmin":false} 
+16.1.2023, 14:12:45 - INFO - Req was made 
+16.1.2023, 14:12:45 - DEBUG - Getting toys | {} 
+16.1.2023, 14:12:54 - ERROR - cannot add toy msg 63c46efa64e0a2db060baa2c | TypeError: Cannot set properties of undefined (setting 'id') 
+16.1.2023, 14:12:54 - ERROR - Failed to update toy | TypeError: Cannot set properties of undefined (setting 'id') 
+16.1.2023, 14:18:15 - INFO - Hi | 90 | Bobo 
+16.1.2023, 14:18:15 - INFO - Server is running on port: 3030 
+16.1.2023, 14:18:17 - INFO - Hi | 90 | Bobo 
+16.1.2023, 14:18:17 - INFO - Server is running on port: 3030 
+16.1.2023, 14:19:00 - ERROR - Failed to update toy | TypeError: Cannot set properties of undefined (setting 'id') 
+16.1.2023, 14:19:00 - ERROR - cannot add toy msg 63c46efa64e0a2db060baa2c | TypeError: Cannot set properties of undefined (setting 'id') 
+16.1.2023, 14:19:33 - INFO - Hi | 90 | Bobo 
+16.1.2023, 14:19:33 - INFO - Server is running on port: 3030 
+16.1.2023, 14:19:50 - INFO - Req was made 
+16.1.2023, 14:19:50 - DEBUG - Getting toys | {} 
+16.1.2023, 14:20:24 - INFO - Req was made 
+16.1.2023, 14:20:24 - DEBUG - Getting toys | {} 
+16.1.2023, 14:20:29 - INFO - Req was made 
+16.1.2023, 14:20:29 - DEBUG - Getting toys | {} 
+16.1.2023, 14:20:34 - INFO - Req was made 
+16.1.2023, 14:20:34 - DEBUG - Getting toys | {} 
+16.1.2023, 14:20:37 - INFO - Req was made 
+16.1.2023, 14:20:37 - DEBUG - Getting toys | {} 
+16.1.2023, 14:20:39 - INFO - Req was made 
+16.1.2023, 14:20:39 - DEBUG - Getting toys | {} 
+16.1.2023, 14:22:17 - INFO - Req was made 
+16.1.2023, 14:22:17 - DEBUG - Getting toys | {} 
+16.1.2023, 14:24:51 - INFO - Req was made 
+16.1.2023, 14:24:51 - DEBUG - Getting toys | {} 
+16.1.2023, 14:25:02 - INFO - Req was made 
+16.1.2023, 14:25:02 - DEBUG - Getting toys | {} 
+16.1.2023, 14:51:49 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 14:51:49 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 14:51:51 - INFO - Req was made 
+16.1.2023, 14:51:51 - DEBUG - Getting toys | {} 
+16.1.2023, 14:55:32 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 14:55:32 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 14:55:34 - INFO - Req was made 
+16.1.2023, 14:55:34 - DEBUG - Getting toys | {} 
+16.1.2023, 14:56:04 - DEBUG - auth.service - login with username: admin 
+16.1.2023, 14:56:04 - INFO - User login:  | {"_id":"63c472d334450ff7b46a6f8a","username":"admin","fullname":"admin","score":5000,"isAdmin":true} 
+16.1.2023, 14:56:06 - INFO - Req was made 
+16.1.2023, 14:56:06 - DEBUG - Getting toys | {} 
+16.1.2023, 14:57:30 - INFO - Req was made 
+16.1.2023, 14:57:30 - DEBUG - Getting toys | {} 
+16.1.2023, 14:57:46 - INFO - Req was made 
+16.1.2023, 14:57:46 - DEBUG - Getting toys | {} 
+16.1.2023, 14:57:56 - INFO - Req was made 
+16.1.2023, 14:57:56 - DEBUG - Getting toys | {} 
+16.1.2023, 15:06:36 - INFO - Hi | 90 | Bobo 
+16.1.2023, 15:06:36 - INFO - Server is running on port: 3030 
+16.1.2023, 15:06:57 - INFO - Hi | 90 | Bobo 
+16.1.2023, 15:06:57 - INFO - Server is running on port: 3030 
+16.1.2023, 15:16:26 - INFO - Hi | 90 | Bobo 
+16.1.2023, 15:16:26 - INFO - Server is running on port: 3030 
+16.1.2023, 15:16:46 - INFO - Hi | 90 | Bobo 
+16.1.2023, 15:16:46 - INFO - Server is running on port: 3030 
+16.1.2023, 15:16:55 - INFO - Hi | 90 | Bobo 
+16.1.2023, 15:16:55 - INFO - Server is running on port: 3030 
+16.1.2023, 15:17:08 - INFO - Req was made 
+16.1.2023, 15:17:08 - DEBUG - Getting toys | {} 
+16.1.2023, 15:19:42 - INFO - Hi | 90 | Bobo 
+16.1.2023, 15:19:42 - INFO - Server is running on port: 3030 

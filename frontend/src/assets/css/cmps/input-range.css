@@ -1,0 +1,11 @@
+div.range-input {
+    display: inline-block;
+    height: fit-content;
+    width: fit-content;
+}
+
+span.range-val {
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #4f81c7;
+}

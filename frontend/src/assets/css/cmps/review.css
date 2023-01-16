@@ -1,0 +1,26 @@
+ul.review-list {
+    list-style-type: none;
+    width: fit-content;
+    max-width: 90vw;
+    margin: 0 auto;
+}
+
+ul.review-list>*:not(:last-child) {
+    border-bottom: 0.1rem inset #263f85;
+}
+
+div.review-box {
+    padding: 0.4rem;
+    margin-block: 1rem;
+}
+
+span.review-rank,
+span.review-name {
+    margin-inline: 1.5rem;
+    font-size: 1.7rem;
+    font-weight: 800;
+}
+
+pre.review-text {
+    font-size: 1.3rem;
+}

@@ -1,0 +1,95 @@
+section.review-edit {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    max-width: 50vw;
+
+    margin: 0 auto;
+
+}
+
+section.review-edit>button {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 550;
+
+    font-weight: unset;
+    
+    padding-block: 0.4rem;
+    padding-inline: 1.2rem;
+    
+    background-color: #4f81c7;
+    border: 0.8px hidden rgb(206, 205, 205);
+    border-radius: 5px;
+    
+    height: fit-content;
+    width: fit-content;
+    
+    justify-self: center;
+    align-self: center;
+}
+
+section.review-edit>button:hover {
+    cursor: pointer;
+    background-color: #393e46;
+    color: white;
+}
+
+div.review-line>button:hover {
+    cursor: pointer;
+    background-color: #393e46;
+    color: white;
+}
+
+
+div.review-line {
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 0.4fr 1.2fr;
+    gap: 0.3rem;
+}
+
+
+div.review-line>input,
+div.review-line>textarea {
+    font-size: 1.2rem;
+}
+
+
+div.review-line>textarea {
+    resize: none;
+}
+
+
+div.review-line>label:not(label.username-review-edit) {
+    font-size: 1.4rem;
+    width: fit-content;
+}
+
+label.username-review-edit {
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+
+@media (max-width: 800px) {
+    div.review-line {
+        grid-template-columns: 0.25fr 1.3fr;
+    }
+}
+
+@media (max-width: 550px) {
+
+    div.review-line {
+
+        grid-template-columns: 0.15fr 0.55fr;
+        gap: 0.1rem;
+    }
+
+    div.review-line>label {
+        font-size: 1.1rem;
+    }
+
+    div.review-line>input,
+    div.review-line>textarea {
+        font-size: 0.9rem;
+    }
+}

@@ -1,0 +1,38 @@
+section.about-page {
+    display: grid;
+    width: 100vw;
+    padding: 2rem;
+    justify-items: center;
+    
+}
+h1.welcome-about {
+    font-size: 3.5rem;
+    margin-block: 0rem;
+}
+
+nav.about-nav {
+    display: flexbox;
+    margin: 0 auto;
+}
+
+nav.about-nav > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding-inline: 1.8rem;
+
+    height: 100%;
+
+    color: var(--color-orange);
+    font-size: 2.5rem;
+}
+
+nav.about-nav >a:hover {
+    color: var(--clr-toy-preview-text);
+}
+
+div.about-content{
+    min-height: 50vh;
+    min-width: 80vw;
+}

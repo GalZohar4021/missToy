@@ -1,0 +1,28 @@
+[
+  {
+    "name": "DICE Pop",
+    "price": 75,
+    "labels": [
+      "Box game",
+      "Doll",
+      "Art"
+    ],
+    "createdAt": 1673431927717,
+    "inStock": true,
+    "thumbnail": "https://toysrus.co.il/media/catalog/product/cache/1c47e4647c24a1362934f7838cdcd4df/1/9/190587056887_1.jpg",
+    "_id": "4afS1"
+  },
+  {
+    "name": "LEGO duplo",
+    "price": 30,
+    "labels": [
+      "Box game",
+      "Puzzle",
+      "Art"
+    ],
+    "createdAt": 1673449845503,
+    "inStock": true,
+    "thumbnail": "https://toysrus.co.il/media/catalog/product/cache/55a044f927b05bedf296cf15120d7cf4/1/0/10909_1.jpg",
+    "_id": "B4W73"
+  }
+]

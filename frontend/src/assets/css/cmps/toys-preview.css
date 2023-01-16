@@ -1,0 +1,29 @@
+article.toys-preview-box {
+    padding: 0.5rem;
+    text-align: center;
+}
+
+article.toys-preview-box>img{
+    width: 25rem;
+    height: 20rem;
+}
+
+
+h4.toy-name {
+    font-size: 2rem;
+    margin: 0;
+    margin-block-start: 0.1rem;
+}
+
+span.price-count {
+    display: block;
+    margin-block: 1rem;
+    
+    font-size: 2rem;
+    font-weight: 700;
+    color: #4D77FF;
+}
+
+article.toys-preview-box>img:hover{
+    cursor: pointer;
+}
