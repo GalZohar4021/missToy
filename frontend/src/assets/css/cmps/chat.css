@@ -1,0 +1,24 @@
+.chat-window {
+    min-height: 30rem;
+    height: aufto;
+    width: fit-content;
+    border: 1px solid rgb(57, 57, 57);
+    padding: 3px;
+
+    margin: 0 auto;
+}
+
+
+.chat-history {
+    flex-grow: 1;
+    background-color: rgb(217, 225, 222);
+}
+
+input.chat-input-msg {
+    border-radius: 5px;
+    margin-inline-end: 3px;
+}
+
+button.button-chat {
+    border-radius: 5px;
+}

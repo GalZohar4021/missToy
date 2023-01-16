@@ -49,3 +49,8 @@ export function logout() {
 //             throw err
 //         })
 // }
+
+export async function addUserReply(user, msg) {
+    return await userService.addUserReply(user, msg)
+
+}

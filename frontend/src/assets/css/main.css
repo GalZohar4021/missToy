@@ -2,9 +2,11 @@
 /* SETUP  */
 @import './setup/vars.css';
 @import './setup/fonts.css';
+/* @import ''; */
 
 /* BASE  */
 @import './base/base.css';
+/* @import ''; */
 
 /*  CMPS  */
 @import './cmps/app-header.css';
@@ -19,6 +21,7 @@
 @import './cmps/reviews.css';
 @import './cmps/review.css';
 @import './cmps/review-edit.css';
+@import './cmps/chat.css';
 /* @import ''; */
 
 /*  Pages  */
@@ -27,3 +30,5 @@
 @import './pages/toy-edit.css';
 @import './pages/toy-details.css';
 @import './pages/about.css';
+@import './pages/user-details.css';
+/* @import ''; */

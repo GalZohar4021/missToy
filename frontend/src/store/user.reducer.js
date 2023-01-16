@@ -3,16 +3,20 @@ import {userService} from '../services/user.service.js'
 
 export const SET_USER = 'SET_USER'
 export const UPDATE_USER_SCORE = 'UPDATE_USER_SCORE'
+export const SET_USER_ACTION_ID = 'SET_USER_ACTION_ID'
 
 
 
 const initialState = {
-    user: userService.getLoggedinUser()
+    user: userService.getLoggedinUser(),
+    userAction: null
 }
 
 
 export function userReducer(state = initialState, action) {
     switch (action.type) {
+        case SET_USER_ACTION_ID:
+            return { ...state, userAction: action.userAction }
         case SET_USER:
             return { ...state, user: action.user }
         case UPDATE_USER_SCORE:

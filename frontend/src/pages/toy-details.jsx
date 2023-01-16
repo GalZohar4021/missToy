@@ -101,6 +101,6 @@ export function ToyDetails() {
 
             </div>
         </article>}
-        {toy && <Reviews toy={toy} />}
+        {toy && <Reviews toy={toy} type={'toy'} />}
     </section>
 }

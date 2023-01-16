@@ -13,6 +13,7 @@ export const userService = {
     logout,
     getLoggedinUser,
     saveLocalUser,
+    addUserReply,
     getUsers
 }
 
@@ -68,4 +69,8 @@ async function logout() {
 function getUsers() {
     // return storageService.query('user')
     return httpService.get(BASE_URL)
+}
+
+function addUserReply(user, msg) {
+    return httpService.post(BASE_URL + user._id + '/msg', msg)
 }

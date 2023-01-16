@@ -6,6 +6,8 @@ import { store } from '../store/store.js'
 import { signup, login, logout } from '../store/user.actions.js'
 import { SET_USER } from '../store/user.reducer.js'
 
+import { Link } from 'react-router-dom'
+
 
 function getEmptyCredentials() {
     return {
@@ -68,7 +70,7 @@ export function Login() {
             </div >
                 :
                 <div className='logged-bar flex-row'>
-                    <h1 className='logged-welcome'> Welcome back <span className='username-welcome'>{user.username}</span></h1>
+                    <h1 className='logged-welcome'> Welcome back <Link className='username-welcome' to={`/user/${user._id}`}> {user.username}</Link></h1>
                     <button className='button logout' onClick={logout}>Logout</button>
                 </div>
         }

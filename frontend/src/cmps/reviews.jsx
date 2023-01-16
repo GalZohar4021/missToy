@@ -9,26 +9,22 @@ import { ReviewEdit } from "./review-edit.jsx"
 import { ReviewList } from "./review-list.jsx"
 import { showSuccessMsg } from "../services/event-bus.service.js"
 import { addToyReply } from "../store/toy.actions.js"
+import { addUserReply } from "../store/user.actions.js"
 
 
-export function Reviews({ toy }) {
-    const [reviews, setReviews] = useState(toy.msg ? toy.msg : [])
+export function Reviews({ source , type}) {
+    const [reviews, setReviews] = useState(source.msg ? source.msg : [])
     const user = useSelector((storeState) => storeState.userModule.user)
 
     function onReviewSubmit(review) {
         const newReviews = [...reviews, review]
-        toy.msg = newReviews
+        source.msg = newReviews
 
-        addToyReply(toy , review)
-        setReviews(toy.msg)
+        if(type === 'toy') addToyReply(source , review)
+        else if(type === 'user') addUserReply(source , review)
+        setReviews(source.msg)
     }
-
-    // async function onToySave() {
-    //     const saved = await toyService.save(toy)
-    //     console.log('toy saved', saved)
-    //     showSuccessMsg('Toy saved!')
-        
-    // }
+    
 
     return <section className="reviews">
         {

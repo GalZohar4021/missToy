@@ -1,0 +1,25 @@
+.user-title-box {
+    margin: 2rem;
+}
+
+
+.user-logo {
+    height: 20rem;
+}
+
+.user-profile-header {
+    margin-inline-start: 4rem;
+    justify-content: space-evenly;
+}
+
+.user-header-uname {
+    font-size: 5rem;
+}
+
+.user-header-fname {
+    font-size: 2.5rem;
+}
+
+.username-nav-tabs {
+    margin-inline-end: 2rem;
+}
